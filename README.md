@@ -65,7 +65,34 @@ https://github.com/openspug/spug
 
 ### Jenkins
 
-# 工具
+# 常用工具
+
+## 梯子
+
+dev-sidecar
+
+一元机场
+
+## redis 客户端
+
+Another Redis Desktop Manager 
+
+https://github.com/qishibo/AnotherRedisDesktopManager
+
+## 文本编辑器 
+
+Visual Studio Code
+
+## 剪切板工具 ditto
+
+## 思维导图
+
+xmind
+
+## 流程图画图工具 
+
+draw.io
+
 ## 远程终端
 Tabby Terminal
 
@@ -87,6 +114,64 @@ TEBookConverter是一款免费的电子书转换工具，它支持从多格式�
 
 TEBookConverter是一种使用Calibre的电子书转换器。支持的输入格式有cbz、cbr、cbc、chm、djvu、docx、epub、fb2、html、htmlz、lit、lrf、mobi、odt、prc、pdb、pml、rb、rtf、snb、tcr、txt、txtz。支持的输出格式是azw3、epub、fb2、oeb、lit、lrf、mobi、htmlz、pdb、pml、rb、pdf、rtf、snb、tcr、txt、txtz。由于多线程，您可以快速转换电子书。
 
+
+## 原型绘制工具
+
+Balsamiq Mockups
+
 ## 测试工具
 
 https://github.com/metersphere/metersphere
+
+jmeter
+
+## 数据库设计工具
+
+https://gitee.com/robergroup/pdmaner
+
+## 其他
+
+### 本地播放器 
+
+PotPlayer
+
+https://potplayer.daum.net/
+
+vlc
+
+https://www.videolan.org/vlc/
+
+mediago m3u8 视频下载
+
+https://github.com/caorushizi/mediago
+
+### 系统hosts管理
+
+switchhosts
+
+https://github.com/oldj/SwitchHosts
+
+### 本地文件搜索
+
+Everything
+
+### 文件夹大小排序，优化磁盘
+
+WizTree
+
+https://www.diskanalyzer.com/
+
+### pdf 格式转换
+
+CleverPDF
+
+https://www.cleverpdf.com/
+
+### node版本管理
+
+nvm
+
+### windows 命令增强 PSTools
+
+
+
