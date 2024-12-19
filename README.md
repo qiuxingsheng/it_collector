@@ -173,5 +173,27 @@ nvm
 
 ### windows 命令增强 PSTools
 
+### IDEA插件
+
+Chinese (Simplified) Language Pack  idea中文包
+
+EasyYapi 接口文档生成插件
+
+GsonFormat-Plus gson格式化插件
+
+Key Promoter X 快捷键提示插件
+
+Alibaba Java Coding Guidelines 阿里java开发规范插件
+
+Maven Helper maven插件 解决冲突等
+
+MyBatisX mybatis插件
+
+TONGYl Lingma 通义灵码
+
+Leeks 小韭菜
+
+
+
 
 
