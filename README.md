@@ -1,29 +1,29 @@
 # 技术整理
 收集我所了解的较新it技术，以java和大数据为主，慢慢积累
 
-# Java
-## 框架
-### SpringBoot
-### SpringCloud Alibaba
+# 1 Java
+## 1.1 框架
+### 1.1.1 SpringBoot
+### 1.1.2 SpringCloud Alibaba
 
-## 文档相关
-### 文档在线预览
+## 2 文档相关
+### 2.1 文档在线预览
 kkFileView
 
 https://kkview.cn/zh-cn/index.html
-### 文档内容解析
+### 2.2 文档内容解析
 Apache Tika
 
 https://tika.apache.org/
-# 大数据
+# 3 大数据
 
-## 元数据管理
+## 3.1 元数据管理
 
-### Datahub 
+### 3.1.1 Datahub 
 
 https://github.com/datahub-project/datahub
 
-## 实时计算
+## 3.2 实时计算
 ### Flink
 
 ### web开发平台
@@ -36,18 +36,16 @@ https://streampark.apache.org/
 
 https://github.com/DataLinkDC/dinky
 
-## 湖仓一体
-
-### hudi
+## 3.3 湖仓一体
 
 ### Paimon
 
-# 人工智能
-## 大模型开发
+# 4 人工智能
+## 4.1 大模型开发
 https://github.com/hpcaitech/ColossalAI
 
-# 运维
-## 监控告警
+# 5 运维
+## 5.1 监控告警
 ### sentry
 
 https://docs.sentry.io/
@@ -58,14 +56,18 @@ Sentry 是一个开源的实时错误追踪系统，可以帮助开发者实时�
 
 Prometheus 是一款基于时序数据库的开源监控告警系统，非常适合Kubernetes集群的监控。Prometheus的基本原理是通过HTTP协议周期性抓取被监控组件的状态，任意组件只要提供对应的HTTP接口就可以接入监控。不需要任何SDK或者其他的集成过程。这样做非常适合做虚拟化环境监控系统，比如VM、Docker、Kubernetes等。输出被监控组件信息的HTTP接口被叫做exporter 。目前互联网公司常用的组件大部分都有exporter可以直接使用，比如Varnish、Haproxy、Nginx、MySQL、Linux系统信息(包括磁盘、内存、CPU、网络等等)。
 
-## 自动化部署
+### SkyWalking
+
+SkyWalking 是一个分布式应用性能管理平台，可以提供包括应用性能、系统状态、应用拓扑、调用链路、告警、告警配置、告警通知、告警统计、告警规则等在内的应用监控、告警、分析、配置、告警等能力。
+
+## 5.2 自动化部署
 
 ### 自动化运维平台 - Spug
 https://github.com/openspug/spug
 
 ### Jenkins
 
-# 常用工具
+# 6 常用工具
 
 ## 梯子
 
